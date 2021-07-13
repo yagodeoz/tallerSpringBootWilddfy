@@ -4,6 +4,9 @@ Talleres de uso de spring starter, aplicando el principio KISS
 
 Deploy de un artefacto war, desarrollado con Spring boot sobre el wildfly.
 
+Link del video explicando el proceso
+
+https://1drv.ms/u/s!ApDik2tezLOUomV5BR9JDnfQ8gqp?e=J5Cln6
 
 ## Comenzando 🚀
 
